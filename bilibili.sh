@@ -2,7 +2,7 @@
 
 # 本脚本仅仅适用于在Windows上执行, 需要用git bash执行, 建议在浏览器中登录B站账号, 效果会好很多
 # 视频的bvid 例如: bvids=("bvid1" "bvid2" "bvid3") 注意: "="前后都没有空格, 括号里面每个bvid之间用空格分开
-bvids=()
+bvids=("BV16oU2YcE6b")
 
 # Chrome配置文件数
 profiles=("Default" "Profile 2" "Profile 3")
